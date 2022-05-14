@@ -2,10 +2,10 @@ import requests
 import datetime
 
 #----------------------------------API KEYS----------------------------------#
-stock_price_api = 'C4NJF1BZQA2S0ZVJ'
-news_api = '16e8ae90c70a4c3d9b3c92550121a565'
-twilio_api = 'SKa8689e71f0b66b6c99b08ed042eedfee'
-twilio_account_sid = 'AC67404451fc1d388fbeadb2c97a500ac4'
+stock_price_api = 'SELECT YOUR API'
+news_api = 'SELECT YOUR API'
+twilio_api = 'SELECT YOUR API'
+twilio_account_sid = 'SELECT YOUR API'
 
 
 #----------------------------------API ENDPOINTS----------------------------------#
